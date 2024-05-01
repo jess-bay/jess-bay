@@ -1,4 +1,4 @@
-## Hello there, welcome to my GitHub!
+## Hello there!
 (If you read that as Obi-Wan, you and I can be friends)! 
 
 ### I am a recently qualified ✨ Full Stack Software Developer ✨ with a passion for continuous learning. My studies led me to a newfound love of software and web development. 
