@@ -9,3 +9,5 @@ I'm constantly practicing the skills that I have learnt so far, whilst also expa
 ### 📊 Working On...
 I'm currently working on various projects: including my personal project called Exercise Engine (repo is training-programs) - a workout generator! 
 As well as this, I am working on re-creating a lot of coding challenges that I completed during my studies in order for them to appear public. 
+
+### [My Portfolio](https://jess-bay.github.io/my-portfolio/)
