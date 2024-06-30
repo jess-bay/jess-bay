@@ -2,8 +2,8 @@
 (If you read that as Obi-Wan, you and I can be friends)! 
 
 ### 📚 Qualifications and Certifications
-Level 6 Certificate in Applied Software Development
-Datacom - Software Development Job Simulation Certificate
+- Level 6 Certificate in Applied Software Development
+- Datacom - Software Development Job Simulation Certificate
 
 
 ### I am a recently qualified ✨ Full Stack Software Developer ✨ with a passion for continuous learning. My studies led me to a newfound love of software and web development. 
