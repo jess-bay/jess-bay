@@ -12,7 +12,8 @@
 I'm constantly practicing the skills that I have learnt so far, whilst also expanding my knowledge by beginning to delve into the world of Python (by completing Udemy courses).
 
 ### 📊 Working On...
-I'm currently completing various short courses to learn Python. I'm also working on some small projects, including building a website for a friend of mine who has their own business. Stay tuned! 
+I'm currently working on some small projects (between learning), including building a website for a friend of mine who has their own business. While it's not finished yet, I'm having fun [creating it](https://github.com/jess-bay/sea-akl-front-end-only).
+
 As well as this, I am working on re-creating a lot of coding challenges that I completed during my studies in order for them to appear public. 
 
 ### [My Portfolio](https://jess-bay.github.io/my-portfolio/)
