@@ -14,6 +14,6 @@ I'm constantly practicing the skills that I have learnt so far, whilst also expa
 ### 📊 Working On...
 I'm currently working on some small projects (between learning), including building a website for a friend of mine who has their own business. While it's not finished yet, I'm having fun [creating it](https://github.com/jess-bay/sea-akl-front-end-only).
 
-As well as this, I am working on re-creating a lot of coding challenges that I completed during my studies in order for them to appear public. 
+As well as this, I am working on re-creating a lot of coding challenges that I completed during my studies in order for them to appear public. I am also spending some time on Code Wars to keep up my practice. 
 
 ### [My Portfolio](https://jess-bay.github.io/my-portfolio/)
